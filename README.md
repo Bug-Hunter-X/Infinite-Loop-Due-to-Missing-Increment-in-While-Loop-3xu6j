@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript program that demonstrates a common error in JavaScript while loops, specifically failing to increment the loop counter which causes an infinite loop. The solution demonstrates how to correctly increment the loop counter to avoid this issue. The files bug.js and bugSolution.js show the buggy code and the corrected code, respectively.
